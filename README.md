@@ -90,12 +90,12 @@ s.close()
 ```
 ## Output
 ## Client.py:
-<img width="828" height="1085" alt="image" src="https://github.com/user-attachments/assets/b67c884a-01c1-4513-b175-7718dcb94040" />
-<img width="1401" height="188" alt="image" src="https://github.com/user-attachments/assets/084ce060-ccf0-4629-816b-ebb2fe553c32" />
+<img width="1920" height="1080" alt="Screenshot 2026-05-25 115805" src="https://github.com/user-attachments/assets/2c28d230-817e-43c0-b89d-0a4b73deeff6" />
+
 ## Server.py:
-<img width="754" height="1039" alt="image" src="https://github.com/user-attachments/assets/5b0facb6-2dab-4825-872e-ad3638aba141" />
-<img width="1381" height="168" alt="WhatsApp Image 2026-05-22 at 1 28 40 PM" src="https://github.com/user-attachments/assets/b7754ff1-0040-4ef7-b9aa-f424bc3719b8" />
-## Developed By: BUSHRA FATHIMA I
-## Register Number: 212225040051
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/4c0463e9-58d7-48b6-bce9-840cd83bd0a6" />
+
+## Developed By: IJAS J
+## Register Number: 212225230102
 ## Result
 Thus Execution of Network commands Performed 
